@@ -9,7 +9,7 @@ excerpt: The Austin i-team is working with service providers and individuals exp
   homelessness to gain a better understanding of the situation and the people involved.
   The goal is to achieve functional zero in 10 years.
 image_path: "/assets/img/projects/bloomberg-iteam/iteam - haca insights.JPG"
-active: true
+active: false
 layout: redirect
 redirect_to: "/projects/bloomberg-iteam/about/overview"
 ---
