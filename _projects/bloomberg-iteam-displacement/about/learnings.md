@@ -1,6 +1,6 @@
 ---
 title: What We're Learning
-position: 2
+position: 1
 ---
 
 ## Deliverables
